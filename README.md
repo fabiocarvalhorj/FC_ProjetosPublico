@@ -1,2 +1,2 @@
-# FC_ProjetosPublicos
+# FC_ProjetosPublico
 Repositório de projetos públicos.
